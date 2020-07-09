@@ -440,3 +440,9 @@
 {"message":{"description":"User joined chat","socketID":"dTEKGd0UmyqpaQnMAAAu","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:56:05"}
 {"message":{"description":"User joined chat","socketID":"-fzfj2mT63EwYtG0AAAv","name":"was"},"level":"info","timestamp":"2020-07-09 10:56:21"}
 {"message":{"description":"User joined chat","socketID":"XlNYkI6fCPCxSGDbAAAw","name":"wow"},"level":"info","timestamp":"2020-07-09 10:56:34"}
+{"message":{"description":"User joined chat","socketID":"Gs0iyPk780EgX9adAAAE","name":"mjastor"},"level":"info","timestamp":"2020-07-09 13:20:00"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Gs0iyPk780EgX9adAAAE","username":"mjastor"},"level":"error","timestamp":"2020-07-09 13:20:12"}
+{"message":{"description":"User joined chat","socketID":"nrK9o2wL_7R80zVQAAAA","name":"majstore"},"level":"info","timestamp":"2020-07-09 13:23:39"}
+{"message":{"description":"User joined chat","socketID":"Z6TSmztwqiEV_rRaAAAG","name":"hejas"},"level":"info","timestamp":"2020-07-09 13:40:02"}
+{"message":{"description":"User joined chat","socketID":"WzF_BBoiPeWdYS05AAAH","name":"marko"},"level":"info","timestamp":"2020-07-09 13:40:09"}
+{"message":{"description":"User Disconnected","reason":"User Logged out","socketID":"Z6TSmztwqiEV_rRaAAAG","username":"hejas"},"level":"error","timestamp":"2020-07-09 13:40:15"}

@@ -28,3 +28,5 @@
 {"message":{"description":"User Disconnected","reason":"Unknown","socketID":"K1dEI4hBAiZLDxNQAAAr","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:52"}
 {"message":{"description":"User Disconnected","reason":"Unknown","socketID":"bkaXYrm-udw8FByiAAAs","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:55:32"}
 {"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Ksh9C5iTWtWNc-wMAAAt","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:56:04"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Gs0iyPk780EgX9adAAAE","username":"mjastor"},"level":"error","timestamp":"2020-07-09 13:20:12"}
+{"message":{"description":"User Disconnected","reason":"User Logged out","socketID":"Z6TSmztwqiEV_rRaAAAG","username":"hejas"},"level":"error","timestamp":"2020-07-09 13:40:15"}
