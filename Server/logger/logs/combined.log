@@ -1,0 +1,442 @@
+{"message":{"description":"User joined chat","socketID":"tv-F5K5VPIbkwqH5AAAA","name":"matko"},"level":"info","timestamp":"2020-07-08 00:49:58"}
+{"message":{"description":"User joined chat","socketID":"uHUt_tmJr3D62CH_AAAB","name":"bela"},"level":"info","timestamp":"2020-07-08 00:49:59"}
+{"message":{"description":"User joined chat","socketID":"oDb_9tCnP_7wHzbsAAAC","name":"ad"},"level":"info","timestamp":"2020-07-08 00:50:00"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"tv-F5K5VPIbkwqH5AAAA"},"level":"info","timestamp":"2020-07-08 00:50:11"}
+{"message":{"description":"User joined chat","socketID":"NzlezZjfjFAcaKR8AAAD","name":"marko"},"level":"info","timestamp":"2020-07-08 00:50:22"}
+{"message":{"description":"User joined chat","socketID":"OfDQGaW_TBx7Y-PiAAAB","name":"asde"},"level":"info","timestamp":"2020-07-08 00:52:08"}
+{"message":{"description":"User joined chat","socketID":"p5EndkRnrBx-SgrIAAAE","name":"dsa"},"level":"info","timestamp":"2020-07-08 00:52:12"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"OfDQGaW_TBx7Y-PiAAAB","username":"asde"},"level":"info","timestamp":"2020-07-08 00:52:14"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"OfDQGaW_TBx7Y-PiAAAB"},"level":"info","timestamp":"2020-07-08 00:52:14"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"p5EndkRnrBx-SgrIAAAE","username":"dsa"},"level":"info","timestamp":"2020-07-08 00:52:18"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"p5EndkRnrBx-SgrIAAAE"},"level":"info","timestamp":"2020-07-08 00:52:18"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"iG0qB5cKYjdsdy7BAAAA"},"level":"info","timestamp":"2020-07-08 00:59:38"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"Gm-3HYxpab8BCrxkAAAC"},"level":"info","timestamp":"2020-07-08 00:59:38"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"LVcl1YblXgyak7tfAAAD"},"level":"info","timestamp":"2020-07-08 00:59:38"}
+{"message":{"description":"User joined chat","socketID":"m_IHfEUG7SpE8S6dAAAF","name":"majstor"},"level":"info","timestamp":"2020-07-08 01:05:32"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"m_IHfEUG7SpE8S6dAAAF","username":"majstor"},"level":"info","timestamp":"2020-07-08 01:05:38"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"m_IHfEUG7SpE8S6dAAAF"},"level":"info","timestamp":"2020-07-08 01:05:38"}
+{"message":{"description":"User joined chat","socketID":"XGXwmOBPJagj-nYuAAAG","name":"majstore"},"level":"info","timestamp":"2020-07-08 01:05:48"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"XGXwmOBPJagj-nYuAAAG","username":"majstore"},"level":"info","timestamp":"2020-07-08 01:05:54"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"XGXwmOBPJagj-nYuAAAG"},"level":"info","timestamp":"2020-07-08 01:05:54"}
+{"message":{"description":"User joined chat","socketID":"6vibkF-_XDTrz-peAAAH","name":"dsa"},"level":"info","timestamp":"2020-07-08 01:06:40"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"6vibkF-_XDTrz-peAAAH"},"level":"info","timestamp":"2020-07-08 01:06:44"}
+{"message":{"description":"User joined chat","socketID":"uBv7NygTDCoVYc1eAAAI","name":"dsa"},"level":"info","timestamp":"2020-07-08 01:06:44"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"6vibkF-_XDTrz-peAAAH","username":"dsa"},"level":"info","timestamp":"2020-07-08 01:06:46"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"uBv7NygTDCoVYc1eAAAI","username":"dsa"},"level":"info","timestamp":"2020-07-08 01:06:50"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"uBv7NygTDCoVYc1eAAAI"},"level":"info","timestamp":"2020-07-08 01:06:50"}
+{"message":{"description":"User joined chat","socketID":"-42oimfBz9kkOFB3AAAJ","name":"sda"},"level":"info","timestamp":"2020-07-08 01:06:53"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"-42oimfBz9kkOFB3AAAJ","username":"sda"},"level":"info","timestamp":"2020-07-08 01:06:59"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"-42oimfBz9kkOFB3AAAJ"},"level":"info","timestamp":"2020-07-08 01:06:59"}
+{"message":{"description":"User joined chat","socketID":"ud9LLeXuW_FajCneAAAK","name":"dsad"},"level":"info","timestamp":"2020-07-08 01:07:41"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"ud9LLeXuW_FajCneAAAK","username":"dsad"},"level":"info","timestamp":"2020-07-08 01:07:47"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"ud9LLeXuW_FajCneAAAK"},"level":"info","timestamp":"2020-07-08 01:07:47"}
+{"message":{"description":"User joined chat","socketID":"FF6XHXP56-kqR-LhAAAL","name":"das"},"level":"info","timestamp":"2020-07-08 01:08:08"}
+{"message":{"description":"User joined chat","socketID":"3HMHKLQrDZbLd1ZSAAAM","name":"wtta"},"level":"info","timestamp":"2020-07-08 01:08:19"}
+{"message":{"description":"User joined chat","socketID":"0HOAIiQFVc1JVRiTAAAN","name":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:25"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"3HMHKLQrDZbLd1ZSAAAM","username":"wtta"},"level":"info","timestamp":"2020-07-08 01:08:25"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"3HMHKLQrDZbLd1ZSAAAM"},"level":"info","timestamp":"2020-07-08 01:08:25"}
+{"message":{"description":"User joined chat","socketID":"vHlJgfuAY-qJLmlsAAAO","name":"dsa"},"level":"info","timestamp":"2020-07-08 01:08:29"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"0HOAIiQFVc1JVRiTAAAN","username":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:31"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"0HOAIiQFVc1JVRiTAAAN"},"level":"info","timestamp":"2020-07-08 01:08:31"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"vHlJgfuAY-qJLmlsAAAO","username":"dsa"},"level":"info","timestamp":"2020-07-08 01:08:35"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"vHlJgfuAY-qJLmlsAAAO"},"level":"info","timestamp":"2020-07-08 01:08:35"}
+{"message":{"description":"User joined chat","socketID":"FA6emyU_M92oi2IrAAAP","name":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:35"}
+{"message":{"description":"Unavailable username","reason":"Username is taken","socketID":"u19QROHFHrCozGczAAAQ","username":"dsad"},"level":"error","timestamp":"2020-07-08 01:08:38"}
+{"message":{"description":"Unavailable username","reason":"Username is taken","socketID":"_zUgbe0HOs2NcWzkAAAR","username":"dsad"},"level":"error","timestamp":"2020-07-08 01:08:40"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"FA6emyU_M92oi2IrAAAP","username":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:41"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"FA6emyU_M92oi2IrAAAP"},"level":"info","timestamp":"2020-07-08 01:08:41"}
+{"message":{"description":"User joined chat","socketID":"fBi9yVNduH65zBQyAAAS","name":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:43"}
+{"message":{"description":"User joined chat","socketID":"YXaAQ6ybuJMGLYMDAAAT","name":"sdad"},"level":"info","timestamp":"2020-07-08 01:08:46"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"fBi9yVNduH65zBQyAAAS","username":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:49"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"fBi9yVNduH65zBQyAAAS"},"level":"info","timestamp":"2020-07-08 01:08:49"}
+{"message":{"description":"User joined chat","socketID":"pVtnDVGaMIQHorynAAAU","name":"dsad"},"level":"info","timestamp":"2020-07-08 01:08:51"}
+{"message":{"description":"User joined chat","socketID":"4DhDoS97Jv6YzfUzAAAV","name":"majstore"},"level":"info","timestamp":"2020-07-08 01:09:17"}
+{"message":{"description":"User joined chat","socketID":"cPkVhWeb4H7ZOTI3AAAW","name":"dragan"},"level":"info","timestamp":"2020-07-08 01:09:21"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"4DhDoS97Jv6YzfUzAAAV","username":"majstore"},"level":"info","timestamp":"2020-07-08 01:09:23"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"4DhDoS97Jv6YzfUzAAAV"},"level":"info","timestamp":"2020-07-08 01:09:23"}
+{"message":{"description":"User joined chat","socketID":"mDaXtvbVCqWwjrryAAAX","name":"vad"},"level":"info","timestamp":"2020-07-08 01:09:30"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"mDaXtvbVCqWwjrryAAAX","username":"vad"},"level":"info","timestamp":"2020-07-08 01:09:36"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"mDaXtvbVCqWwjrryAAAX"},"level":"info","timestamp":"2020-07-08 01:09:36"}
+{"message":{"description":"User joined chat","socketID":"7eEYUFkcarvtEssrAAAY","name":"a"},"level":"info","timestamp":"2020-07-08 01:09:39"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"7eEYUFkcarvtEssrAAAY","username":"a"},"level":"info","timestamp":"2020-07-08 01:09:45"}
+{"message":{"description":"User disconnected","reason":"logged out","socketID":"7eEYUFkcarvtEssrAAAY"},"level":"info","timestamp":"2020-07-08 01:09:46"}
+{"message":{"description":"User joined chat","socketID":"zpX7OCK3FfAimRVjAAAA","name":"dsa"},"level":"info","timestamp":"2020-07-08 01:10:41"}
+{"message":{"description":"User joined chat","socketID":"yZFdCy4YzQtN8dLmAAAB","name":"marko"},"level":"info","timestamp":"2020-07-08 01:10:47"}
+{"message":{"description":"User joined chat","socketID":"CpHRDMC_OEYDVlQEAAAA","name":"asf"},"level":"info","timestamp":"2020-07-08 10:18:35"}
+{"message":{"description":"User joined chat","socketID":"K1BdbWz_DtYilSVFAAAA","name":"matko"},"level":"info","timestamp":"2020-07-08 10:20:29"}
+{"message":{"description":"User joined chat","socketID":"L2Num5M4Mi2aJ871AAAA","name":"matko"},"level":"info","timestamp":"2020-07-08 10:21:47"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"L2Num5M4Mi2aJ871AAAA","username":"matko"},"level":"info","timestamp":"2020-07-08 10:22:17"}
+{"message":{"description":"User joined chat","socketID":"Zswvi_wcIvXZz4dYAAAB","name":"labo"},"level":"info","timestamp":"2020-07-08 10:22:37"}
+{"message":{"description":"User joined chat","socketID":"vh3ATk7GCSuDyD8dAAAC","name":"petar"},"level":"info","timestamp":"2020-07-08 10:22:43"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Zswvi_wcIvXZz4dYAAAB","username":"labo"},"level":"info","timestamp":"2020-07-08 10:23:07"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"vh3ATk7GCSuDyD8dAAAC","username":"petar"},"level":"info","timestamp":"2020-07-08 10:23:13"}
+{"message":{"description":"User joined chat","socketID":"F8uPbHdIhy9NE_HUAAAD","name":"hola"},"level":"info","timestamp":"2020-07-08 11:37:57"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"F8uPbHdIhy9NE_HUAAAD","username":"hola"},"level":"info","timestamp":"2020-07-08 11:38:27"}
+{"message":{"description":"User joined chat","socketID":"pto-aN3E4begGTWwAAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 11:41:02"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"pto-aN3E4begGTWwAAAE","username":"marko"},"level":"info","timestamp":"2020-07-08 11:41:32"}
+{"message":{"description":"User joined chat","socketID":"h4cFHbuA9LmTETKRAAAF","name":"marko"},"level":"info","timestamp":"2020-07-08 11:42:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"h4cFHbuA9LmTETKRAAAF","username":"marko"},"level":"info","timestamp":"2020-07-08 11:42:52"}
+{"message":{"description":"User joined chat","socketID":"uSmrBoseWenbgequAAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 11:57:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"uSmrBoseWenbgequAAAA","username":"marko"},"level":"info","timestamp":"2020-07-08 11:58:12"}
+{"message":{"description":"User joined chat","socketID":"Jwy_m3QD7RZpZLBCAAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 12:02:48"}
+{"message":{"description":"User joined chat","socketID":"BS_wcLhegC8eEBgdAAAC","name":"robin"},"level":"info","timestamp":"2020-07-08 12:03:14"}
+{"message":{"description":"User joined chat","socketID":"rHJfTVxst5STGl7MAAAD","name":"marko"},"level":"info","timestamp":"2020-07-08 12:05:13"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"rHJfTVxst5STGl7MAAAD","username":"marko"},"level":"info","timestamp":"2020-07-08 12:05:43"}
+{"message":{"description":"User disconnected","reason":"","socketID":"rHJfTVxst5STGl7MAAAD","username":"marko"},"level":"info","timestamp":"2020-07-08 12:05:43"}
+{"message":{"description":"User joined chat","socketID":"gFTW8FSILcTA1R4PAAAA","name":"meda"},"level":"info","timestamp":"2020-07-08 12:08:44"}
+{"message":{"description":"User joined chat","socketID":"TG28vTvH89j11U_8AAAB","name":"perko"},"level":"info","timestamp":"2020-07-08 12:12:18"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"TG28vTvH89j11U_8AAAB","username":"perko"},"level":"info","timestamp":"2020-07-08 12:12:48"}
+{"message":{"description":"User joined chat","socketID":"hlAmQFKV8VbvCphvAAAC","name":"marko"},"level":"info","timestamp":"2020-07-08 12:16:32"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"hlAmQFKV8VbvCphvAAAC","username":"marko"},"level":"info","timestamp":"2020-07-08 12:17:02"}
+{"message":{"description":"User joined chat","socketID":"qti033jqayDEHUf7AAAA","name":"sda"},"level":"info","timestamp":"2020-07-08 15:35:34"}
+{"message":{"description":"User joined chat","socketID":"NnmeYQmGrkH8ZaHjAAAB","name":"romana"},"level":"info","timestamp":"2020-07-08 15:39:56"}
+{"message":{"description":"User joined chat","socketID":"UI8KnHGhYge0Ra8VAAAC","name":"romana"},"level":"info","timestamp":"2020-07-08 15:41:13"}
+{"message":{"description":"User joined chat","socketID":"0vhckIpOfBlOzv2kAAAD","name":"hola"},"level":"info","timestamp":"2020-07-08 15:41:21"}
+{"message":{"description":"User joined chat","socketID":"hMgJltcxA1hJIgCCAAAE","name":"da"},"level":"info","timestamp":"2020-07-08 15:43:05"}
+{"message":{"description":"User joined chat","socketID":"h-J-3wHy68G0ByWHAAAF","name":"ad"},"level":"info","timestamp":"2020-07-08 15:50:12"}
+{"message":{"description":"User joined chat","socketID":"9n3vjjNo7hgJKOpAAAAG","name":"ad"},"level":"info","timestamp":"2020-07-08 15:51:19"}
+{"message":{"description":"User joined chat","socketID":"hZeVjDXQhKINJ2mTAAAH","name":"sda"},"level":"info","timestamp":"2020-07-08 15:51:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"qti033jqayDEHUf7AAAA","username":"sda"},"level":"info","timestamp":"2020-07-08 15:52:44"}
+{"message":{"description":"User joined chat","socketID":"N24APUR42tAinLaxAAAI","name":"petar"},"level":"info","timestamp":"2020-07-08 15:55:50"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"NnmeYQmGrkH8ZaHjAAAB","username":"romana"},"level":"info","timestamp":"2020-07-08 15:57:06"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"UI8KnHGhYge0Ra8VAAAC","username":"romana"},"level":"info","timestamp":"2020-07-08 15:58:23"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"0vhckIpOfBlOzv2kAAAD","username":"hola"},"level":"info","timestamp":"2020-07-08 15:58:31"}
+{"message":{"description":"User joined chat","socketID":"MKCCN359Daw6GgIfAAAJ","name":"sda"},"level":"info","timestamp":"2020-07-08 15:59:22"}
+{"message":{"description":"User joined chat","socketID":"Xna_GLSSmTzUJUrvAAAK","name":"petar"},"level":"info","timestamp":"2020-07-08 15:59:22"}
+{"message":{"description":"User joined chat","socketID":"oCMxgxO7PsM2snclAAAL","name":"sda"},"level":"info","timestamp":"2020-07-08 15:59:27"}
+{"message":{"description":"User joined chat","socketID":"Dx1EgrgEY7k18CtYAAAM","name":"petar"},"level":"info","timestamp":"2020-07-08 15:59:27"}
+{"message":{"description":"User joined chat","socketID":"SnFgYcL6eC9jnOnKAAAN","name":"sda"},"level":"info","timestamp":"2020-07-08 15:59:48"}
+{"message":{"description":"User joined chat","socketID":"0arFiHvajSjNHnbpAAAO","name":"petar"},"level":"info","timestamp":"2020-07-08 15:59:48"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"hMgJltcxA1hJIgCCAAAE","username":"da"},"level":"info","timestamp":"2020-07-08 16:00:15"}
+{"message":{"description":"User joined chat","socketID":"4SNKKSqi6BiJrJggAAAP","name":"sda"},"level":"info","timestamp":"2020-07-08 16:01:50"}
+{"message":{"description":"User joined chat","socketID":"p6CXDO7Zic7PMyf1AAAQ","name":"petar"},"level":"info","timestamp":"2020-07-08 16:01:50"}
+{"message":{"description":"User joined chat","socketID":"MfYf__T4bYJfuXpMAAAR","name":"sda"},"level":"info","timestamp":"2020-07-08 16:02:21"}
+{"message":{"description":"User joined chat","socketID":"gfqk4YJxpkAUEBpwAAAS","name":"petar"},"level":"info","timestamp":"2020-07-08 16:02:21"}
+{"message":{"description":"User joined chat","socketID":"QnnmtzsIUhzVZmLAAAAT","name":"sda"},"level":"info","timestamp":"2020-07-08 16:04:09"}
+{"message":{"description":"User joined chat","socketID":"IuP9I_ceA_dGqAMnAAAU","name":"sda"},"level":"info","timestamp":"2020-07-08 16:04:33"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"h-J-3wHy68G0ByWHAAAF","username":"ad"},"level":"info","timestamp":"2020-07-08 16:07:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"9n3vjjNo7hgJKOpAAAAG","username":"ad"},"level":"info","timestamp":"2020-07-08 16:08:29"}
+{"message":{"description":"User joined chat","socketID":"bp76zbyEJFOVvuO8AAAV","name":"sda"},"level":"info","timestamp":"2020-07-08 16:08:42"}
+{"message":{"description":"User joined chat","socketID":"AIMqSxZeFvVjPk1SAAAW","name":"sda"},"level":"info","timestamp":"2020-07-08 16:11:36"}
+{"message":{"description":"User joined chat","socketID":"pv_HTUvyS1JxDPj6AAAX","name":"sda"},"level":"info","timestamp":"2020-07-08 16:11:41"}
+{"message":{"description":"User joined chat","socketID":"GVFMvJoAZds7JjrtAAAY","name":"sdaw"},"level":"info","timestamp":"2020-07-08 16:13:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"MKCCN359Daw6GgIfAAAJ","username":"sda"},"level":"info","timestamp":"2020-07-08 16:16:32"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Xna_GLSSmTzUJUrvAAAK","username":"petar"},"level":"info","timestamp":"2020-07-08 16:16:32"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Dx1EgrgEY7k18CtYAAAM","username":"petar"},"level":"info","timestamp":"2020-07-08 16:16:37"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"0arFiHvajSjNHnbpAAAO","username":"petar"},"level":"info","timestamp":"2020-07-08 16:16:58"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"p6CXDO7Zic7PMyf1AAAQ","username":"petar"},"level":"info","timestamp":"2020-07-08 16:19:00"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"AIMqSxZeFvVjPk1SAAAW","username":"sda"},"level":"info","timestamp":"2020-07-08 16:28:46"}
+{"message":{"description":"User joined chat","socketID":"fdhkQoxJ0cIRgNKkAAAZ","name":"sdaw"},"level":"info","timestamp":"2020-07-08 16:29:53"}
+{"message":{"description":"User joined chat","socketID":"CHOCxJmLTEolJP8KAAAa","name":"sdaw"},"level":"info","timestamp":"2020-07-08 16:30:18"}
+{"message":{"description":"User joined chat","socketID":"obUIbPhzLYx2tVg9AAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 18:37:35"}
+{"message":{"description":"User joined chat","socketID":"Qehb6Wq1Z1UiXgNaAAAC","name":"marko"},"level":"info","timestamp":"2020-07-08 18:38:56"}
+{"message":{"description":"User joined chat","socketID":"Wu3fIwA9oJPeHfT-AAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 18:40:38"}
+{"message":{"description":"User joined chat","socketID":"DCXxjcWzCaIQfZ7dAAAG","name":"marko"},"level":"info","timestamp":"2020-07-08 18:47:24"}
+{"message":{"description":"User joined chat","socketID":"1MzDbf_SMOEvjGKLAAAH","name":"marko"},"level":"info","timestamp":"2020-07-08 18:49:16"}
+{"message":{"description":"User joined chat","socketID":"ZZgM8PU2u7ZChxOWAAAI","name":"marko"},"level":"info","timestamp":"2020-07-08 18:50:11"}
+{"message":{"description":"User joined chat","socketID":"OG7I95tXijc9ehuNAAAJ","name":"marko"},"level":"info","timestamp":"2020-07-08 18:53:12"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"obUIbPhzLYx2tVg9AAAA","username":"marko"},"level":"info","timestamp":"2020-07-08 18:54:45"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Qehb6Wq1Z1UiXgNaAAAC","username":"marko"},"level":"info","timestamp":"2020-07-08 18:56:06"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Wu3fIwA9oJPeHfT-AAAE","username":"marko"},"level":"info","timestamp":"2020-07-08 18:57:48"}
+{"message":{"description":"User joined chat","socketID":"DE_eQwSMiHk9ttm4AAAK","name":"marko"},"level":"info","timestamp":"2020-07-08 18:59:21"}
+{"message":{"description":"User joined chat","socketID":"qBMz7iMTGLjihhxaAAAL","name":"marko"},"level":"info","timestamp":"2020-07-08 19:00:22"}
+{"message":{"description":"User joined chat","socketID":"l1wQAMiruJ0LsIDFAAAC","name":"marko"},"level":"info","timestamp":"2020-07-08 19:01:07"}
+{"message":{"description":"User joined chat","socketID":"DsAMsuFd_vpiWFDZAAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 19:02:06"}
+{"message":{"description":"User joined chat","socketID":"KAxPPNt780LDGRVoAAAF","name":"marko"},"level":"info","timestamp":"2020-07-08 19:04:00"}
+{"message":{"description":"User joined chat","socketID":"Fsbk69fxVCyRSXCXAAAG","name":"marko"},"level":"info","timestamp":"2020-07-08 19:04:39"}
+{"message":{"description":"User joined chat","socketID":"7vuElo6Xmf-cyf-3AAAH","name":"marko"},"level":"info","timestamp":"2020-07-08 19:05:05"}
+{"message":{"description":"User joined chat","socketID":"kfGWnh_JlHPXh1cLAAAI","name":"marko"},"level":"info","timestamp":"2020-07-08 19:06:32"}
+{"message":{"description":"User joined chat","socketID":"qTMSLWcaIZQRiV8OAAAJ","name":"lala"},"level":"info","timestamp":"2020-07-08 19:07:17"}
+{"message":{"description":"User joined chat","socketID":"0U2SimUB8dy7yVeZAAAK","name":"lala"},"level":"info","timestamp":"2020-07-08 19:08:11"}
+{"message":{"description":"User joined chat","socketID":"znQhv7UjS5lcHc_QAAAL","name":"lala"},"level":"info","timestamp":"2020-07-08 19:08:52"}
+{"message":{"description":"User joined chat","socketID":"5gnl4ldWv93DyCIPAAAM","name":"lala"},"level":"info","timestamp":"2020-07-08 19:14:24"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"DsAMsuFd_vpiWFDZAAAE","username":"marko"},"level":"info","timestamp":"2020-07-08 19:19:16"}
+{"message":{"description":"User joined chat","socketID":"B54oHAyC5UALqj9DAAAN","name":"lala"},"level":"info","timestamp":"2020-07-08 19:19:51"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"KAxPPNt780LDGRVoAAAF","username":"marko"},"level":"info","timestamp":"2020-07-08 19:21:10"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Fsbk69fxVCyRSXCXAAAG","username":"marko"},"level":"info","timestamp":"2020-07-08 19:21:49"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"7vuElo6Xmf-cyf-3AAAH","username":"marko"},"level":"info","timestamp":"2020-07-08 19:22:15"}
+{"message":{"description":"User joined chat","socketID":"u-JLCqdRP-jsx6i8AAAO","name":"lilja"},"level":"info","timestamp":"2020-07-08 19:22:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"kfGWnh_JlHPXh1cLAAAI","username":"marko"},"level":"info","timestamp":"2020-07-08 19:23:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"qTMSLWcaIZQRiV8OAAAJ","username":"lala"},"level":"info","timestamp":"2020-07-08 19:24:27"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"0U2SimUB8dy7yVeZAAAK","username":"lala"},"level":"info","timestamp":"2020-07-08 19:25:21"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"znQhv7UjS5lcHc_QAAAL","username":"lala"},"level":"info","timestamp":"2020-07-08 19:26:02"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"5gnl4ldWv93DyCIPAAAM","username":"lala"},"level":"info","timestamp":"2020-07-08 19:31:34"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"u-JLCqdRP-jsx6i8AAAO","username":"lilja"},"level":"info","timestamp":"2020-07-08 19:39:52"}
+{"message":{"description":"User joined chat","socketID":"i0XKAJe2pftHDyqDAAAP","name":"marko"},"level":"info","timestamp":"2020-07-08 19:41:10"}
+{"message":{"description":"User joined chat","socketID":"fqBbIhHoWBeDmaXHAAAQ","name":"marko"},"level":"info","timestamp":"2020-07-08 19:50:20"}
+{"message":{"description":"User joined chat","socketID":"oPwBnRCRS0UUw-RuAAAR","name":"marko"},"level":"info","timestamp":"2020-07-08 19:55:12"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"fqBbIhHoWBeDmaXHAAAQ","username":"marko"},"level":"info","timestamp":"2020-07-08 20:07:30"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"oPwBnRCRS0UUw-RuAAAR","username":"marko"},"level":"info","timestamp":"2020-07-08 20:12:22"}
+{"message":{"description":"User joined chat","socketID":"3LUy9jSNzPpmaKGwAAAS","name":"roman"},"level":"info","timestamp":"2020-07-08 20:31:19"}
+{"message":{"description":"User joined chat","socketID":"haAPpDLs1Di_QCyQAAAT","name":"picka manicka"},"level":"info","timestamp":"2020-07-08 20:31:42"}
+{"message":{"description":"User joined chat","socketID":"QJGWRteQJ4WzRW-QAAAU","name":"marko"},"level":"info","timestamp":"2020-07-08 20:31:51"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"3LUy9jSNzPpmaKGwAAAS","username":"roman"},"level":"info","timestamp":"2020-07-08 20:48:29"}
+{"message":{"description":"User joined chat","socketID":"A_gAXNeMlzHRQnB7AAAV","name":"manjana"},"level":"info","timestamp":"2020-07-08 20:56:30"}
+{"message":{"description":"User joined chat","socketID":"yf3PkDFc5-lT9dWZAAAW","name":"as"},"level":"info","timestamp":"2020-07-08 20:59:18"}
+{"message":{"description":"User joined chat","socketID":"Xeh8pGv0ky7tZUaoAAAX","name":"as"},"level":"info","timestamp":"2020-07-08 21:02:52"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"A_gAXNeMlzHRQnB7AAAV","username":"manjana"},"level":"info","timestamp":"2020-07-08 21:13:40"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"yf3PkDFc5-lT9dWZAAAW","username":"as"},"level":"info","timestamp":"2020-07-08 21:16:28"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Xeh8pGv0ky7tZUaoAAAX","username":"as"},"level":"info","timestamp":"2020-07-08 21:20:02"}
+{"message":{"description":"User joined chat","socketID":"mov1wasYZJ3y4Gt8AAAY","name":"jalla"},"level":"info","timestamp":"2020-07-08 21:56:27"}
+{"message":{"description":"User joined chat","socketID":"vnaeII9YSSt1eu5eAAAA","name":"aras"},"level":"info","timestamp":"2020-07-08 21:59:46"}
+{"message":{"description":"User joined chat","socketID":"ySd59z5DEzsRbZBhAAAB","name":"ew"},"level":"info","timestamp":"2020-07-08 21:59:48"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"vnaeII9YSSt1eu5eAAAA","username":"aras"},"level":"info","timestamp":"2020-07-08 21:59:52"}
+{"message":{"description":"User joined chat","socketID":"HFvhTYV9tp_kwHHPAAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 22:26:02"}
+{"message":{"description":"User joined chat","socketID":"ukBImZqj9ClOw9f-AAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 22:29:15"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"ukBImZqj9ClOw9f-AAAA","username":"marko"},"level":"info","timestamp":"2020-07-08 22:29:21"}
+{"message":{"description":"User joined chat","socketID":"sc4VTidf99davsRFAAAB","name":"das"},"level":"info","timestamp":"2020-07-08 22:31:11"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"sc4VTidf99davsRFAAAB","username":"das"},"level":"info","timestamp":"2020-07-08 22:31:21"}
+{"message":{"description":"User joined chat","socketID":"-d5-j0jR_pBKM-P3AAAC","name":"marko"},"level":"info","timestamp":"2020-07-08 22:34:15"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"-d5-j0jR_pBKM-P3AAAC","username":"marko"},"level":"info","timestamp":"2020-07-08 22:34:21"}
+{"message":{"description":"User joined chat","socketID":"Q62ZEAx0ugFTaRVEAAAD","name":"marko"},"level":"info","timestamp":"2020-07-08 22:35:13"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Q62ZEAx0ugFTaRVEAAAD","username":"marko"},"level":"info","timestamp":"2020-07-08 22:35:46"}
+{"message":{"description":"User joined chat","socketID":"bIW7OZIF1UfaAQiLAAAE","name":"dsa"},"level":"info","timestamp":"2020-07-08 22:39:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"bIW7OZIF1UfaAQiLAAAE","username":"dsa"},"level":"info","timestamp":"2020-07-08 22:39:50"}
+{"message":{"description":"User joined chat","socketID":"GGDtq3uEQT-zIjDJAAAF","name":"sdasda"},"level":"info","timestamp":"2020-07-08 22:39:56"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"GGDtq3uEQT-zIjDJAAAF","username":"sdasda"},"level":"info","timestamp":"2020-07-08 22:40:07"}
+{"message":{"description":"User joined chat","socketID":"rwpnkLzAs_bIfmMJAAAG","name":"sdsad"},"level":"info","timestamp":"2020-07-08 22:40:13"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"rwpnkLzAs_bIfmMJAAAG","username":"sdsad"},"level":"info","timestamp":"2020-07-08 22:40:19"}
+{"message":{"description":"User joined chat","socketID":"8Yyagd4AfpjVF7PuAAAH","name":"dsada"},"level":"info","timestamp":"2020-07-08 22:40:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"8Yyagd4AfpjVF7PuAAAH","username":"dsada"},"level":"info","timestamp":"2020-07-08 22:40:28"}
+{"message":{"description":"User joined chat","socketID":"szzEuecLXngxGTutAAAI","name":"marko"},"level":"info","timestamp":"2020-07-08 22:51:14"}
+{"message":{"description":"User joined chat","socketID":"hIsLYgsa83o2oqmqAAAJ","name":"ivan"},"level":"info","timestamp":"2020-07-08 22:51:16"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"szzEuecLXngxGTutAAAI","username":"marko"},"level":"info","timestamp":"2020-07-08 22:51:27"}
+{"message":{"description":"User joined chat","socketID":"P3gV1LVcTxmi1dwQAAAK","name":"ivan"},"level":"info","timestamp":"2020-07-08 22:57:10"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"P3gV1LVcTxmi1dwQAAAK","username":"ivan"},"level":"info","timestamp":"2020-07-08 22:57:16"}
+{"message":{"description":"User joined chat","socketID":"te9w78qRNOrdOUMrAAAA","name":"jalla"},"level":"info","timestamp":"2020-07-08 22:58:48"}
+{"message":{"description":"User joined chat","socketID":"Cx1oCrdPUJoo5L9aAAAB","name":"markec"},"level":"info","timestamp":"2020-07-08 22:58:55"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Cx1oCrdPUJoo5L9aAAAB","username":"markec"},"level":"info","timestamp":"2020-07-08 22:59:40"}
+{"message":{"description":"User joined chat","socketID":"DVe8Bx3s4MFxLiKYAAAC","name":"jalla"},"level":"info","timestamp":"2020-07-08 23:04:29"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"DVe8Bx3s4MFxLiKYAAAC","username":"jalla"},"level":"info","timestamp":"2020-07-08 23:04:59"}
+{"message":{"description":"User joined chat","socketID":"sE3g-vvKkx6F6fy3AAAD","name":"marko"},"level":"info","timestamp":"2020-07-08 23:06:11"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"sE3g-vvKkx6F6fy3AAAD","username":"marko"},"level":"info","timestamp":"2020-07-08 23:06:55"}
+{"message":{"description":"User joined chat","socketID":"QsdSVIjCT6g99tuqAAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 23:10:34"}
+{"message":{"description":"User joined chat","socketID":"nqZLfJpUDTZFYTQbAAAF","name":"marko"},"level":"info","timestamp":"2020-07-08 23:10:56"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"nqZLfJpUDTZFYTQbAAAF","username":"marko"},"level":"info","timestamp":"2020-07-08 23:11:38"}
+{"message":{"description":"User joined chat","socketID":"WVl5XG4zk93FkKNSAAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 23:12:19"}
+{"message":{"description":"User joined chat","socketID":"Cx58RdOLmXpe1VxQAAAA","name":"marko"},"level":"info","timestamp":"2020-07-08 23:13:49"}
+{"message":{"description":"User joined chat","socketID":"2qklJ5nZJrP8HNZZAAAC","name":"hola"},"level":"info","timestamp":"2020-07-08 23:13:50"}
+{"message":{"description":"User joined chat","socketID":"M28D4geacrjmQ4z8AAAD","name":"as"},"level":"info","timestamp":"2020-07-08 23:13:56"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"2qklJ5nZJrP8HNZZAAAC","username":"hola"},"level":"info","timestamp":"2020-07-08 23:14:31"}
+{"message":{"description":"User joined chat","socketID":"VX8F7Ap8u6utM-DdAAAE","name":"fdsf"},"level":"info","timestamp":"2020-07-08 23:14:47"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"M28D4geacrjmQ4z8AAAD","username":"as"},"level":"info","timestamp":"2020-07-08 23:15:31"}
+{"message":{"description":"User joined chat","socketID":"pDbSU4QhZRWvqzwlAAAF","name":"sahsa"},"level":"info","timestamp":"2020-07-08 23:20:13"}
+{"message":{"description":"User joined chat","socketID":"Zp_qUzhERBpfCiBlAAAG","name":"aw"},"level":"info","timestamp":"2020-07-08 23:20:34"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Zp_qUzhERBpfCiBlAAAG","username":"aw"},"level":"info","timestamp":"2020-07-08 23:21:04"}
+{"message":{"description":"User joined chat","socketID":"z3WYDTRycUJVOkKtAAAH","name":"sahsa"},"level":"info","timestamp":"2020-07-08 23:31:35"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"z3WYDTRycUJVOkKtAAAH","username":"sahsa"},"level":"info","timestamp":"2020-07-08 23:32:05"}
+{"message":{"description":"User joined chat","socketID":"GnXyLOoqPNiy_nOqAAAI","name":"marko"},"level":"info","timestamp":"2020-07-08 23:32:36"}
+{"message":{"description":"User joined chat","socketID":"7Mo3WEKnXJyN6mH7AAAJ","name":"ira"},"level":"info","timestamp":"2020-07-08 23:32:40"}
+{"message":{"description":"User joined chat","socketID":"K8PXopb_E4bBnp3dAAAK","name":"ira"},"level":"info","timestamp":"2020-07-08 23:33:23"}
+{"message":{"description":"User joined chat","socketID":"dYRygs2MJJEAcN61AAAL","name":"marko"},"level":"info","timestamp":"2020-07-08 23:33:28"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"dYRygs2MJJEAcN61AAAL","username":"marko"},"level":"info","timestamp":"2020-07-08 23:34:14"}
+{"message":{"description":"User joined chat","socketID":"mbxgbGW5Xv2H6IpOAAAM","name":"asda"},"level":"info","timestamp":"2020-07-08 23:35:08"}
+{"message":{"description":"User joined chat","socketID":"eYbcFIFiubVW2Q3aAAAN","name":"waw"},"level":"info","timestamp":"2020-07-08 23:35:12"}
+{"message":{"description":"User joined chat","socketID":"C7A3bRvVRQ7kQ6ZdAAAO","name":"waw"},"level":"info","timestamp":"2020-07-08 23:35:30"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"C7A3bRvVRQ7kQ6ZdAAAO","username":"waw"},"level":"info","timestamp":"2020-07-08 23:36:00"}
+{"message":{"description":"User joined chat","socketID":"-595iaHeM-LLyi0UAAAP","name":"aw"},"level":"info","timestamp":"2020-07-08 23:36:44"}
+{"message":{"description":"User joined chat","socketID":"-_-boR9gqJ990Ur7AAAQ","name":"saw"},"level":"info","timestamp":"2020-07-08 23:36:46"}
+{"message":{"description":"User joined chat","socketID":"8RjuZS3sX0leDFcnAAAC","name":"maro"},"level":"info","timestamp":"2020-07-08 23:38:44"}
+{"message":{"description":"User joined chat","socketID":"NnH6Lp_9kFz0cUWCAAAD","name":"lyka"},"level":"info","timestamp":"2020-07-08 23:38:49"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"NnH6Lp_9kFz0cUWCAAAD","username":"lyka"},"level":"info","timestamp":"2020-07-08 23:39:19"}
+{"message":{"description":"User joined chat","socketID":"SmrkiwX7kXrVuASWAAAE","name":"awd"},"level":"info","timestamp":"2020-07-08 23:40:06"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"SmrkiwX7kXrVuASWAAAE","username":"awd"},"level":"info","timestamp":"2020-07-08 23:40:43"}
+{"message":{"description":"User joined chat","socketID":"YT1wspRhaDY5vYqSAAAF","name":"marko"},"level":"info","timestamp":"2020-07-08 23:40:49"}
+{"message":{"description":"User joined chat","socketID":"Ap4pZ6445-5F5XK5AAAE","name":"lik"},"level":"info","timestamp":"2020-07-08 23:41:37"}
+{"message":{"description":"User joined chat","socketID":"pd_30zB-sHlzhGD0AAAF","name":"awd"},"level":"info","timestamp":"2020-07-08 23:42:01"}
+{"message":{"description":"User joined chat","socketID":"O1qrO5Pn--9jnX_-AAAG","name":"evo me"},"level":"info","timestamp":"2020-07-08 23:42:32"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"O1qrO5Pn--9jnX_-AAAG","username":"evo me"},"level":"info","timestamp":"2020-07-08 23:43:20"}
+{"message":{"description":"User joined chat","socketID":"oBjjFqDqweEDZoKeAAAH","name":"marka"},"level":"info","timestamp":"2020-07-08 23:43:58"}
+{"message":{"description":"User joined chat","socketID":"uOENguycTuwEuF3XAAAI","name":"cvarka"},"level":"info","timestamp":"2020-07-08 23:44:02"}
+{"message":{"description":"User joined chat","socketID":"m5VxSdZD2ZVZiv1wAAAJ","name":"marka"},"level":"info","timestamp":"2020-07-08 23:44:25"}
+{"message":{"description":"User joined chat","socketID":"1u_IEfHZtVaMg8SvAAAK","name":"markkuss"},"level":"info","timestamp":"2020-07-08 23:44:35"}
+{"message":{"description":"User joined chat","socketID":"iXCOxikuVH4omTTCAAAL","name":"marka"},"level":"info","timestamp":"2020-07-08 23:45:06"}
+{"message":{"description":"User joined chat","socketID":"C8vjV2TstZhaWaQiAAAM","name":"markkuss"},"level":"info","timestamp":"2020-07-08 23:45:07"}
+{"message":{"description":"User joined chat","socketID":"6Kj8SmGujijBKTFuAAAN","name":"sdad"},"level":"info","timestamp":"2020-07-08 23:45:18"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"6Kj8SmGujijBKTFuAAAN","username":"sdad"},"level":"info","timestamp":"2020-07-08 23:45:48"}
+{"message":{"description":"User joined chat","socketID":"nxxceS7QHkajYVcqAAAB","name":"marko"},"level":"info","timestamp":"2020-07-08 23:48:25"}
+{"message":{"description":"User joined chat","socketID":"WCOBHaDk3PnU9kcrAAAD","name":"sara"},"level":"info","timestamp":"2020-07-08 23:48:29"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"WCOBHaDk3PnU9kcrAAAD","username":"sara"},"level":"info","timestamp":"2020-07-08 23:48:59"}
+{"message":{"description":"User joined chat","socketID":"j39uoJefLbU3NSC_AAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 23:49:21"}
+{"message":{"description":"User joined chat","socketID":"6c2xm1eSynm2OI9cAAAF","name":"marko"},"level":"info","timestamp":"2020-07-08 23:49:36"}
+{"message":{"description":"User joined chat","socketID":"0U45BhTKtuw6SkJaAAAG","name":"sara"},"level":"info","timestamp":"2020-07-08 23:49:39"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"0U45BhTKtuw6SkJaAAAG","username":"sara"},"level":"info","timestamp":"2020-07-08 23:50:09"}
+{"message":{"description":"User joined chat","socketID":"eDbJHV32UZwTiv_oAAAH","name":"marko"},"level":"info","timestamp":"2020-07-08 23:50:44"}
+{"message":{"description":"User joined chat","socketID":"oIKa1uDoDE3LyZgzAAAA","name":"sin"},"level":"info","timestamp":"2020-07-08 23:52:49"}
+{"message":{"description":"User joined chat","socketID":"RbQLN8nYJqpraeJ5AAAC","name":"jarko"},"level":"info","timestamp":"2020-07-08 23:53:59"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"RbQLN8nYJqpraeJ5AAAC","username":"jarko"},"level":"info","timestamp":"2020-07-08 23:54:29"}
+{"message":{"description":"User joined chat","socketID":"WaViGqmhcXKgkH7WAAAD","name":"asds"},"level":"info","timestamp":"2020-07-08 23:55:33"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"WaViGqmhcXKgkH7WAAAD","username":"asds"},"level":"info","timestamp":"2020-07-08 23:56:04"}
+{"message":{"description":"User joined chat","socketID":"FzIUb5VVSyzcj5aFAAAE","name":"marko"},"level":"info","timestamp":"2020-07-08 23:58:21"}
+{"message":{"description":"User joined chat","socketID":"0ORYnf2MJzom0-5YAAAA","name":"marko"},"level":"info","timestamp":"2020-07-09 00:02:37"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"rdXDwqwvbku2ovUrAAAB","username":"marko"},"level":"error","timestamp":"2020-07-09 00:02:39"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"bf5ZSzV5rzrVrqseAAAC","username":"marko"},"level":"error","timestamp":"2020-07-09 00:02:44"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"0ORYnf2MJzom0-5YAAAA","username":"marko"},"level":"info","timestamp":"2020-07-09 00:03:07"}
+{"message":{"description":"User joined chat","socketID":"ntyKdGi37wXjQJtuAAAD","name":"marko"},"level":"info","timestamp":"2020-07-09 00:04:27"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"TxiOmLCZtL9SesA3AAAE","username":"marko"},"level":"error","timestamp":"2020-07-09 00:04:33"}
+{"message":{"description":"User joined chat","socketID":"erPQfvfifbcI4kT1AAAF","name":"nika"},"level":"info","timestamp":"2020-07-09 00:04:37"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"erPQfvfifbcI4kT1AAAF","username":"nika"},"level":"info","timestamp":"2020-07-09 00:05:12"}
+{"message":{"description":"User joined chat","socketID":"df9dtWYjcmNBzrJDAAAG","name":"marko"},"level":"info","timestamp":"2020-07-09 00:05:40"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"df9dtWYjcmNBzrJDAAAG","username":"marko"},"level":"info","timestamp":"2020-07-09 00:06:10"}
+{"message":{"description":"User joined chat","socketID":"C8zgohUMp6RczgPIAAAH","name":"eas"},"level":"info","timestamp":"2020-07-09 00:07:42"}
+{"message":{"description":"User joined chat","socketID":"nJXrvsfqKTq4MeYkAAAI","name":"was"},"level":"info","timestamp":"2020-07-09 00:08:03"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"nJXrvsfqKTq4MeYkAAAI","username":"was"},"level":"info","timestamp":"2020-07-09 00:08:33"}
+{"message":{"description":"User joined chat","socketID":"Is-aM6eZr6t6AVJoAAAJ","name":"liam"},"level":"info","timestamp":"2020-07-09 00:11:31"}
+{"message":{"description":"User joined chat","socketID":"TAo5QAWCD_MyY0BhAAAK","name":"asd"},"level":"info","timestamp":"2020-07-09 00:11:38"}
+{"message":{"description":"User joined chat","socketID":"bTY4tHUYjcXEwVr8AAAL","name":"jalla"},"level":"info","timestamp":"2020-07-09 00:12:08"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"bTY4tHUYjcXEwVr8AAAL","username":"jalla"},"level":"info","timestamp":"2020-07-09 00:12:38"}
+{"message":{"description":"User joined chat","socketID":"-VrAQViU_sqN_sqGAAAM","name":"asd"},"level":"info","timestamp":"2020-07-09 00:13:00"}
+{"message":{"description":"User joined chat","socketID":"JqE0FcGMbtGYQ7jhAAAN","name":"markec"},"level":"info","timestamp":"2020-07-09 00:13:07"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"-VrAQViU_sqN_sqGAAAM","username":"asd"},"level":"info","timestamp":"2020-07-09 00:13:51"}
+{"message":{"description":"User joined chat","socketID":"vkksVW1Bc2_XDt_NAAAA","name":"marko"},"level":"info","timestamp":"2020-07-09 01:09:19"}
+{"message":{"description":"User joined chat","socketID":"bTfoXobigjw52MEPAAAB","name":"marko"},"level":"info","timestamp":"2020-07-09 01:10:00"}
+{"message":{"description":"User joined chat","socketID":"Q7qgFiw9mefvoLLdAAAC","name":"nika"},"level":"info","timestamp":"2020-07-09 01:10:22"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"bTfoXobigjw52MEPAAAB","username":"marko"},"level":"info","timestamp":"2020-07-09 01:11:10"}
+{"message":{"description":"User joined chat","socketID":"H0Q9mQjqnOFqg6ZvAAAD","name":"sad"},"level":"info","timestamp":"2020-07-09 01:11:54"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Q7qgFiw9mefvoLLdAAAC","username":"nika"},"level":"info","timestamp":"2020-07-09 01:12:41"}
+{"message":{"description":"User joined chat","socketID":"slXCN9uBML4rXQPZAAAE","name":"wad"},"level":"info","timestamp":"2020-07-09 01:18:10"}
+{"message":{"description":"User joined chat","socketID":"Ri28cJpghXlZjrzNAAAF","name":"warsf"},"level":"info","timestamp":"2020-07-09 01:18:23"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Ri28cJpghXlZjrzNAAAF","username":"warsf"},"level":"info","timestamp":"2020-07-09 01:19:15"}
+{"message":{"description":"User joined chat","socketID":"x89Tgbxo9V34Mr_uAAAG","name":"wad"},"level":"info","timestamp":"2020-07-09 01:20:35"}
+{"message":{"description":"User joined chat","socketID":"q_QQUGpocMvrIigiAAAH","name":"wad"},"level":"info","timestamp":"2020-07-09 01:21:04"}
+{"message":{"description":"User joined chat","socketID":"513dube3sZf6IdtNAAAI","name":"luka"},"level":"info","timestamp":"2020-07-09 01:21:14"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"513dube3sZf6IdtNAAAI","username":"luka"},"level":"info","timestamp":"2020-07-09 01:21:47"}
+{"message":{"description":"User joined chat","socketID":"RCcYJ2_MJJ0J66_QAAAB","name":"marko"},"level":"info","timestamp":"2020-07-09 01:24:52"}
+{"message":{"description":"User joined chat","socketID":"jrvHpir16UnvCbrsAAAC","name":"sestra"},"level":"info","timestamp":"2020-07-09 01:25:14"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"jrvHpir16UnvCbrsAAAC","username":"sestra"},"level":"info","timestamp":"2020-07-09 01:25:48"}
+{"message":{"description":"User joined chat","socketID":"v1RqfnV04Y2fjPkWAAAD","name":"marko"},"level":"info","timestamp":"2020-07-09 01:25:59"}
+{"message":{"description":"User joined chat","socketID":"OjMsCxmYNWTAI11rAAAE","name":"marko"},"level":"info","timestamp":"2020-07-09 01:26:20"}
+{"message":{"description":"User joined chat","socketID":"duQhtbAVcgPhRQ8EAAAF","name":"marko"},"level":"info","timestamp":"2020-07-09 01:26:55"}
+{"message":{"description":"User joined chat","socketID":"xznQ70bB26j1R10NAAAG","name":"jha"},"level":"info","timestamp":"2020-07-09 01:27:12"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"xznQ70bB26j1R10NAAAG","username":"jha"},"level":"info","timestamp":"2020-07-09 01:27:44"}
+{"message":{"description":"User joined chat","socketID":"CqOhluWFJAUMa4VIAAAH","name":"narko"},"level":"info","timestamp":"2020-07-09 01:28:44"}
+{"message":{"description":"User joined chat","socketID":"s5IkIPV3GBrZQ1QyAAAI","name":"marko"},"level":"info","timestamp":"2020-07-09 01:28:48"}
+{"message":{"description":"User joined chat","socketID":"k5LT-_gWvaciVN55AAAJ","name":"marko"},"level":"info","timestamp":"2020-07-09 01:29:20"}
+{"message":{"description":"User joined chat","socketID":"1Hh7ajaS-T6vpli4AAAK","name":"narko"},"level":"info","timestamp":"2020-07-09 01:29:20"}
+{"message":{"description":"User joined chat","socketID":"h_qfKkEbZc5k-zrHAAAB","name":"ads"},"level":"info","timestamp":"2020-07-09 01:30:11"}
+{"message":{"description":"User joined chat","socketID":"p2Uc5kMCjdxaaRe0AAAD","name":"wasdafas"},"level":"info","timestamp":"2020-07-09 01:30:14"}
+{"message":{"description":"User joined chat","socketID":"SbLon2yQWJTZVxmIAAAE","name":"aasd"},"level":"info","timestamp":"2020-07-09 01:30:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"SbLon2yQWJTZVxmIAAAE","username":"aasd"},"level":"info","timestamp":"2020-07-09 01:31:12"}
+{"message":{"description":"User joined chat","socketID":"6UJAVFYd1UOi8xaXAAAF","name":"ads"},"level":"info","timestamp":"2020-07-09 01:33:29"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"6UJAVFYd1UOi8xaXAAAF","username":"ads"},"level":"info","timestamp":"2020-07-09 01:33:59"}
+{"message":{"description":"User joined chat","socketID":"XKfDSnDTxStERQ3tAAAA","name":"sarl"},"level":"info","timestamp":"2020-07-09 01:37:29"}
+{"message":{"description":"User joined chat","socketID":"uqwEdFKG62WPG9grAAAB","name":"murl"},"level":"info","timestamp":"2020-07-09 01:37:37"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"uqwEdFKG62WPG9grAAAB","username":"murl"},"level":"info","timestamp":"2020-07-09 01:38:07"}
+{"message":{"description":"User joined chat","socketID":"pOMpNoEpOhZXxEEjAAAC","name":"sarl"},"level":"info","timestamp":"2020-07-09 01:39:25"}
+{"message":{"description":"User joined chat","socketID":"KGVA9UEfAiMyMocdAAAD","name":"saw"},"level":"info","timestamp":"2020-07-09 01:39:37"}
+{"message":{"description":"User joined chat","socketID":"DUzacULhozcmQdFNAAAE","name":"sarl"},"level":"info","timestamp":"2020-07-09 01:39:58"}
+{"message":{"description":"User joined chat","socketID":"vbjSi3YA1ijRMJHnAAAF","name":"wads"},"level":"info","timestamp":"2020-07-09 01:40:02"}
+{"message":{"description":"User joined chat","socketID":"-7NIVejJi8n779i7AAAG","name":"wads"},"level":"info","timestamp":"2020-07-09 01:40:30"}
+{"message":{"description":"User joined chat","socketID":"nnN-Kb2gbbWTJgj4AAAH","name":"asd"},"level":"info","timestamp":"2020-07-09 01:40:32"}
+{"message":{"description":"User joined chat","socketID":"3XcQz4xopSgAmP7jAAAA","name":"erko"},"level":"info","timestamp":"2020-07-09 01:46:31"}
+{"message":{"description":"User joined chat","socketID":"NsLZM-N9KNxH5M9kAAAB","name":"larko"},"level":"info","timestamp":"2020-07-09 01:46:35"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"3XcQz4xopSgAmP7jAAAA","username":"erko"},"level":"info","timestamp":"2020-07-09 01:47:23"}
+{"message":{"description":"User joined chat","socketID":"jfhKZyE8w00xExNMAAAC","name":"asdw"},"level":"info","timestamp":"2020-07-09 01:47:48"}
+{"message":{"description":"User joined chat","socketID":"mR5qRMw00i_vWESnAAAD","name":"awww"},"level":"info","timestamp":"2020-07-09 01:47:51"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"mR5qRMw00i_vWESnAAAD","username":"awww"},"level":"info","timestamp":"2020-07-09 01:48:21"}
+{"message":{"description":"User joined chat","socketID":"ozQYwU-Yr4Y-AHM8AAAE","name":"asdw"},"level":"info","timestamp":"2020-07-09 01:48:48"}
+{"message":{"description":"User joined chat","socketID":"C9ooRzB-C0CBGD9TAAAF","name":"asdw"},"level":"info","timestamp":"2020-07-09 01:48:54"}
+{"message":{"description":"User joined chat","socketID":"jENjreQEppScgGzNAAAG","name":"aarrr"},"level":"info","timestamp":"2020-07-09 01:49:03"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"jENjreQEppScgGzNAAAG","username":"aarrr"},"level":"info","timestamp":"2020-07-09 01:49:33"}
+{"message":{"description":"User joined chat","socketID":"UzyhvIE_9apqVdJNAAAH","name":"awds"},"level":"info","timestamp":"2020-07-09 01:52:37"}
+{"message":{"description":"User joined chat","socketID":"XgB7k-vqR8EjhIMjAAAI","name":"ddda"},"level":"info","timestamp":"2020-07-09 01:52:39"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"XgB7k-vqR8EjhIMjAAAI","username":"ddda"},"level":"info","timestamp":"2020-07-09 01:53:09"}
+{"message":{"description":"User joined chat","socketID":"mx7GBktJ7QNLAhWJAAAA","name":"marko"},"level":"info","timestamp":"2020-07-09 01:57:19"}
+{"message":{"description":"User joined chat","socketID":"NIG_ynvtysKBfJzlAAAB","name":"sadad"},"level":"info","timestamp":"2020-07-09 01:57:47"}
+{"message":{"description":"User joined chat","socketID":"Hrf3cTYa-vZCIyY1AAAC","name":"sdada"},"level":"info","timestamp":"2020-07-09 01:57:55"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"Hrf3cTYa-vZCIyY1AAAC","username":"sdada"},"level":"info","timestamp":"2020-07-09 01:58:25"}
+{"message":{"description":"User joined chat","socketID":"SdHX9ZMQ2vS9mQI8AAAA","name":"awds"},"level":"info","timestamp":"2020-07-09 02:00:05"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"SdHX9ZMQ2vS9mQI8AAAA","username":"awds"},"level":"info","timestamp":"2020-07-09 02:00:35"}
+{"message":{"description":"User joined chat","socketID":"0W9ZNUsLO0oLimrhAAAD","name":"ads"},"level":"info","timestamp":"2020-07-09 02:01:06"}
+{"message":{"description":"User joined chat","socketID":"nu6X7tgfPsd1FcclAAAE","name":"asda"},"level":"info","timestamp":"2020-07-09 02:01:10"}
+{"message":{"description":"User disconnected","socketID":"nu6X7tgfPsd1FcclAAAE","username":"asda"},"level":"info","timestamp":"2020-07-09 02:01:14"}
+{"message":{"description":"User joined chat","socketID":"EeYdJEzvJFEoowviAAAA","name":"hi"},"level":"info","timestamp":"2020-07-09 09:28:32"}
+{"message":{"description":"User joined chat","socketID":"dU4kl0kXReVrEYQVAAAB","name":"sada"},"level":"info","timestamp":"2020-07-09 09:28:32"}
+{"message":{"description":"User joined chat","socketID":"4XBSFxe2oRgEJP4aAAAC","name":"wow"},"level":"info","timestamp":"2020-07-09 09:28:32"}
+{"message":{"description":"User joined chat","socketID":"3x7tYoCSzM6OqZnLAAAF","name":"marko"},"level":"info","timestamp":"2020-07-09 09:29:01"}
+{"message":{"description":"User joined chat","socketID":"SryhgKB2oolapvL6AAAG","name":"eliza"},"level":"info","timestamp":"2020-07-09 09:29:23"}
+{"message":{"description":"User joined chat","socketID":"0fn5ulA2v-93V19zAAAH","name":"da"},"level":"info","timestamp":"2020-07-09 09:29:32"}
+{"message":{"description":"User joined chat","socketID":"zbcM6pD5esmzW552AAAI","name":"iva"},"level":"info","timestamp":"2020-07-09 09:29:42"}
+{"message":{"description":"User disconnected","reason":"disconnected due to inactivity","socketID":"zbcM6pD5esmzW552AAAI","username":"iva"},"level":"info","timestamp":"2020-07-09 09:30:12"}
+{"message":{"description":"User joined chat","socketID":"CsDWiZv0nHnLBiOjAAAA","name":"markko"},"level":"info","timestamp":"2020-07-09 09:47:12"}
+{"message":{"description":"User joined chat","socketID":"r-MZCHC9po7Lno7ZAAAA","name":"lisa"},"level":"info","timestamp":"2020-07-09 09:53:34"}
+{"message":{"description":"User joined chat","socketID":"ZhFJwO9fdbYg_qSUAAAB","name":"marko"},"level":"info","timestamp":"2020-07-09 09:53:38"}
+{"message":{"description":"User joined chat","socketID":"gBVBDLGxN7OnTqa-AAAC","name":"lisa"},"level":"info","timestamp":"2020-07-09 09:54:19"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"gBVBDLGxN7OnTqa-AAAC","username":"lisa"},"level":"error","timestamp":"2020-07-09 09:54:21"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"ZhFJwO9fdbYg_qSUAAAB","username":"marko"},"level":"error","timestamp":"2020-07-09 09:59:28"}
+{"message":{"description":"User joined chat","socketID":"Px3QjecX5VdbhEhOAAAD","name":"marko"},"level":"info","timestamp":"2020-07-09 09:59:29"}
+{"message":{"description":"User joined chat","socketID":"EwY5tCX-dsTDU2nTAAAE","name":"majka"},"level":"info","timestamp":"2020-07-09 10:02:05"}
+{"message":{"description":"User joined chat","socketID":"21pbZC4aMx5JE5TYAAAF","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:02:12"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"EwY5tCX-dsTDU2nTAAAE","username":"majka"},"level":"error","timestamp":"2020-07-09 10:02:56"}
+{"message":{"description":"User joined chat","socketID":"kBy5-lar4wMUJkysAAAG","name":"majka"},"level":"info","timestamp":"2020-07-09 10:02:57"}
+{"message":{"description":"User joined chat","socketID":"knWIpi-2napVI9cgAAAH","name":"was"},"level":"info","timestamp":"2020-07-09 10:03:00"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"kBy5-lar4wMUJkysAAAG","username":"majka"},"level":"error","timestamp":"2020-07-09 10:03:06"}
+{"message":{"description":"User joined chat","socketID":"E5FBVzD0jIQD38gAAAAA","name":"majka"},"level":"info","timestamp":"2020-07-09 10:06:51"}
+{"message":{"description":"User joined chat","socketID":"bY02MVFGneN3ZI4zAAAB","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:06:56"}
+{"message":{"description":"User joined chat","socketID":"3zAeJQrSQadiE-aWAAAC","name":"chicho"},"level":"info","timestamp":"2020-07-09 10:07:11"}
+{"message":{"description":"User joined chat","socketID":"zGM51F7NEE7rgFuFAAAD","name":"trecinovic"},"level":"info","timestamp":"2020-07-09 10:07:29"}
+{"message":{"description":"User joined chat","socketID":"_GD5jEVtZYxhCMAkAAAE","name":"marko"},"level":"info","timestamp":"2020-07-09 10:26:32"}
+{"message":{"description":"User joined chat","socketID":"EcWTj2mkUauWRdIsAAAF","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:27:15"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"AmGNKGxrL2j7P8HXAAAG","username":"marko"},"level":"error","timestamp":"2020-07-09 10:31:40"}
+{"message":{"description":"User joined chat","socketID":"s_dN7YU7zOwKsgCzAAAH","name":"liam"},"level":"info","timestamp":"2020-07-09 10:31:44"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"s_dN7YU7zOwKsgCzAAAH","username":"liam"},"level":"error","timestamp":"2020-07-09 10:33:18"}
+{"message":{"description":"User joined chat","socketID":"jJRM9yyU5nmDuKqNAAAI","name":"liam"},"level":"info","timestamp":"2020-07-09 10:33:19"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"jJRM9yyU5nmDuKqNAAAI","username":"liam"},"level":"error","timestamp":"2020-07-09 10:33:53"}
+{"message":{"description":"User joined chat","socketID":"5dlRssDAjOv3FXbDAAAJ","name":"liam"},"level":"info","timestamp":"2020-07-09 10:33:54"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"EcWTj2mkUauWRdIsAAAF","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:34:18"}
+{"message":{"description":"User joined chat","socketID":"shxEz_gRYGgzImMjAAAK","name":"asdw"},"level":"info","timestamp":"2020-07-09 10:34:21"}
+{"message":{"description":"User joined chat","socketID":"JZLCMO1h0_5Ou_lFAAAL","name":"laki"},"level":"info","timestamp":"2020-07-09 10:34:26"}
+{"message":{"description":"User joined chat","socketID":"tdq-TUMLAM-PFguvAAAM","name":"cuzna"},"level":"info","timestamp":"2020-07-09 10:34:34"}
+{"message":{"description":"User joined chat","socketID":"iNzf5IQNjPJr6FAdAAAN","name":"marko"},"level":"info","timestamp":"2020-07-09 10:34:53"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"iNzf5IQNjPJr6FAdAAAN","username":"marko"},"level":"error","timestamp":"2020-07-09 10:35:14"}
+{"message":{"description":"User joined chat","socketID":"WC1D9DnHMYUa2pR0AAAO","name":"marko"},"level":"info","timestamp":"2020-07-09 10:35:14"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"WC1D9DnHMYUa2pR0AAAO","username":"marko"},"level":"error","timestamp":"2020-07-09 10:35:50"}
+{"message":{"description":"User joined chat","socketID":"Q-rLnCflFZ2qxgaxAAAP","name":"marko"},"level":"info","timestamp":"2020-07-09 10:35:51"}
+{"message":{"description":"User joined chat","socketID":"qj5lLEHOhyQ5qXKSAAAQ","name":"huha"},"level":"info","timestamp":"2020-07-09 10:35:58"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Q-rLnCflFZ2qxgaxAAAP","username":"marko"},"level":"error","timestamp":"2020-07-09 10:36:48"}
+{"message":{"description":"User joined chat","socketID":"lbr0VnYyKPb6HfbAAAAR","name":"marko"},"level":"info","timestamp":"2020-07-09 10:36:48"}
+{"message":{"description":"User joined chat","socketID":"vlbketu-eILepZnQAAAS","name":"aws"},"level":"info","timestamp":"2020-07-09 10:36:52"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"lbr0VnYyKPb6HfbAAAAR","username":"marko"},"level":"error","timestamp":"2020-07-09 10:37:37"}
+{"message":{"description":"User joined chat","socketID":"-3vjVb68GirMNNqfAAAT","name":"marko"},"level":"info","timestamp":"2020-07-09 10:37:38"}
+{"message":{"description":"User joined chat","socketID":"zuUp3kf2TDzwyg-hAAAU","name":"asdw"},"level":"info","timestamp":"2020-07-09 10:37:41"}
+{"message":{"description":"User joined chat","socketID":"6xAcZycTqBYHgGBEAAAV","name":"wadsaw2"},"level":"info","timestamp":"2020-07-09 10:37:44"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"zuUp3kf2TDzwyg-hAAAU","username":"asdw"},"level":"error","timestamp":"2020-07-09 10:38:12"}
+{"message":{"description":"User joined chat","socketID":"9J4LoBboHXV0opbeAAAW","name":"asdw"},"level":"info","timestamp":"2020-07-09 10:38:13"}
+{"message":{"description":"User joined chat","socketID":"raPH-KHVcqKee-8UAAAX","name":"marko"},"level":"info","timestamp":"2020-07-09 10:38:18"}
+{"message":{"description":"User joined chat","socketID":"XVJsK62sqtzafpVjAAAY","name":"sad"},"level":"info","timestamp":"2020-07-09 10:38:38"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"raPH-KHVcqKee-8UAAAX","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:17"}
+{"message":{"description":"User joined chat","socketID":"RM_LbyMyNGovAVjtAAAZ","name":"marko"},"level":"info","timestamp":"2020-07-09 10:39:18"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"RM_LbyMyNGovAVjtAAAZ","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:19"}
+{"message":{"description":"User joined chat","socketID":"PzVBVI2Oi4LahuDsAAAa","name":"marko"},"level":"info","timestamp":"2020-07-09 10:39:20"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"PzVBVI2Oi4LahuDsAAAa","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:22"}
+{"message":{"description":"User joined chat","socketID":"bAf-YV4KGQn2tuM3AAAb","name":"marko"},"level":"info","timestamp":"2020-07-09 10:39:26"}
+{"message":{"description":"User joined chat","socketID":"nZu-aa5rvsYE5061AAAc","name":"aws"},"level":"info","timestamp":"2020-07-09 10:39:40"}
+{"message":{"description":"User joined chat","socketID":"rs5sfpE7rGPjFU2eAAAd","name":"awds"},"level":"info","timestamp":"2020-07-09 10:39:48"}
+{"message":{"description":"User joined chat","socketID":"hTzfjmLT1bMMckxdAAAe","name":"wras"},"level":"info","timestamp":"2020-07-09 10:39:56"}
+{"message":{"description":"User joined chat","socketID":"-LcwTPqj5GESgIFCAAAf","name":"wasrss"},"level":"info","timestamp":"2020-07-09 10:40:12"}
+{"message":{"description":"User joined chat","socketID":"J16Dnf3wY7GUwR0QAAAg","name":"nigel"},"level":"info","timestamp":"2020-07-09 10:40:23"}
+{"message":{"description":"User joined chat","socketID":"gtjR-5-TxNZs8Fp1AAAh","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:42:50"}
+{"message":{"description":"User joined chat","socketID":"hLUQyxkNsKdv2MHqAAAi","name":"marko"},"level":"info","timestamp":"2020-07-09 10:42:57"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"gtjR-5-TxNZs8Fp1AAAh","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:46:54"}
+{"message":{"description":"User joined chat","socketID":"PEwjeYyQ5tryzcNdAAAj","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:46:55"}
+{"message":{"description":"User joined chat","socketID":"LE8z1wLhW20w6xblAAAk","name":"jerko"},"level":"info","timestamp":"2020-07-09 10:47:01"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"PEwjeYyQ5tryzcNdAAAj","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:17"}
+{"message":{"description":"User joined chat","socketID":"e6detfC_d1J1ZVraAAAl","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:48:18"}
+{"message":{"description":"User joined chat","socketID":"kAPhcU8jD9C-F0jFAAAm","name":"majka"},"level":"info","timestamp":"2020-07-09 10:48:23"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"e6detfC_d1J1ZVraAAAl","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:45"}
+{"message":{"description":"User joined chat","socketID":"HN5PYiZoVEwzMBGgAAAn","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:48:46"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"HN5PYiZoVEwzMBGgAAAn","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:48"}
+{"message":{"description":"User joined chat","socketID":"eB-0TJX6er5JnQUmAAAo","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:48:49"}
+{"message":{"description":"User joined chat","socketID":"EZJz48sW1P4wjKaAAAAp","name":"mamma"},"level":"info","timestamp":"2020-07-09 10:48:55"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"eB-0TJX6er5JnQUmAAAo","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:21"}
+{"message":{"description":"User joined chat","socketID":"IHmNWfGDqAWESdf0AAAq","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:49:22"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"IHmNWfGDqAWESdf0AAAq","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:26"}
+{"message":{"description":"User joined chat","socketID":"K1dEI4hBAiZLDxNQAAAr","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:49:27"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"K1dEI4hBAiZLDxNQAAAr","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:52"}
+{"message":{"description":"User joined chat","socketID":"bkaXYrm-udw8FByiAAAs","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:49:53"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"bkaXYrm-udw8FByiAAAs","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:55:32"}
+{"message":{"description":"User joined chat","socketID":"Ksh9C5iTWtWNc-wMAAAt","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:55:33"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Ksh9C5iTWtWNc-wMAAAt","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:56:04"}
+{"message":{"description":"User joined chat","socketID":"dTEKGd0UmyqpaQnMAAAu","name":"ivan"},"level":"info","timestamp":"2020-07-09 10:56:05"}
+{"message":{"description":"User joined chat","socketID":"-fzfj2mT63EwYtG0AAAv","name":"was"},"level":"info","timestamp":"2020-07-09 10:56:21"}
+{"message":{"description":"User joined chat","socketID":"XlNYkI6fCPCxSGDbAAAw","name":"wow"},"level":"info","timestamp":"2020-07-09 10:56:34"}

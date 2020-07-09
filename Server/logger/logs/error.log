@@ -1,0 +1,30 @@
+{"message":{"description":"Unavailable username","reason":"Username is taken","socketID":"u19QROHFHrCozGczAAAQ","username":"dsad"},"level":"error","timestamp":"2020-07-08 01:08:38"}
+{"message":{"description":"Unavailable username","reason":"Username is taken","socketID":"_zUgbe0HOs2NcWzkAAAR","username":"dsad"},"level":"error","timestamp":"2020-07-08 01:08:40"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"rdXDwqwvbku2ovUrAAAB","username":"marko"},"level":"error","timestamp":"2020-07-09 00:02:39"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"bf5ZSzV5rzrVrqseAAAC","username":"marko"},"level":"error","timestamp":"2020-07-09 00:02:44"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"TxiOmLCZtL9SesA3AAAE","username":"marko"},"level":"error","timestamp":"2020-07-09 00:04:33"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"gBVBDLGxN7OnTqa-AAAC","username":"lisa"},"level":"error","timestamp":"2020-07-09 09:54:21"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"ZhFJwO9fdbYg_qSUAAAB","username":"marko"},"level":"error","timestamp":"2020-07-09 09:59:28"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"EwY5tCX-dsTDU2nTAAAE","username":"majka"},"level":"error","timestamp":"2020-07-09 10:02:56"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"kBy5-lar4wMUJkysAAAG","username":"majka"},"level":"error","timestamp":"2020-07-09 10:03:06"}
+{"message":{"description":"Unavailable username","reason":"","socketID":"AmGNKGxrL2j7P8HXAAAG","username":"marko"},"level":"error","timestamp":"2020-07-09 10:31:40"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"s_dN7YU7zOwKsgCzAAAH","username":"liam"},"level":"error","timestamp":"2020-07-09 10:33:18"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"jJRM9yyU5nmDuKqNAAAI","username":"liam"},"level":"error","timestamp":"2020-07-09 10:33:53"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"EcWTj2mkUauWRdIsAAAF","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:34:18"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"iNzf5IQNjPJr6FAdAAAN","username":"marko"},"level":"error","timestamp":"2020-07-09 10:35:14"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"WC1D9DnHMYUa2pR0AAAO","username":"marko"},"level":"error","timestamp":"2020-07-09 10:35:50"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Q-rLnCflFZ2qxgaxAAAP","username":"marko"},"level":"error","timestamp":"2020-07-09 10:36:48"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"lbr0VnYyKPb6HfbAAAAR","username":"marko"},"level":"error","timestamp":"2020-07-09 10:37:37"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"zuUp3kf2TDzwyg-hAAAU","username":"asdw"},"level":"error","timestamp":"2020-07-09 10:38:12"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"raPH-KHVcqKee-8UAAAX","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:17"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"RM_LbyMyNGovAVjtAAAZ","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:19"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"PzVBVI2Oi4LahuDsAAAa","username":"marko"},"level":"error","timestamp":"2020-07-09 10:39:22"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"gtjR-5-TxNZs8Fp1AAAh","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:46:54"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"PEwjeYyQ5tryzcNdAAAj","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:17"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"e6detfC_d1J1ZVraAAAl","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:45"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"HN5PYiZoVEwzMBGgAAAn","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:48:48"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"eB-0TJX6er5JnQUmAAAo","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:21"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"IHmNWfGDqAWESdf0AAAq","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:26"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"K1dEI4hBAiZLDxNQAAAr","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:49:52"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"bkaXYrm-udw8FByiAAAs","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:55:32"}
+{"message":{"description":"User Disconnected","reason":"Unknown","socketID":"Ksh9C5iTWtWNc-wMAAAt","username":"ivan"},"level":"error","timestamp":"2020-07-09 10:56:04"}
