@@ -33,7 +33,7 @@ io.on('connection', function (socket) {
             name: name
         });
         socket.emit('message', { user: 'admin', text: user.name + ", Welcome!" });
-        socket.broadcast.emit('message', { user: 'admin', text: user.name + ", has joined!" });
+        socket.broadcast.emit('message', { user: 'admin', text: user.name + ", joined!" });
         resetTimer(socket, user);
         socket.on('sentMessage', function (message) {
             var user = getUser(socket.id);
@@ -54,7 +54,7 @@ io.on('connection', function (socket) {
             var user = removeUser(socket.id);
             if (user) {
                 io.emit('user disconnecting', { user: user });
-                io.emit('message', { user: 'admin', text: name + " has logged out" });
+                io.emit('message', { user: 'admin', text: name + " logged out" });
                 logger.error({
                     description: 'User Disconnected', reason: 'User Logged out', socketID: socket.id, username: name
                 });

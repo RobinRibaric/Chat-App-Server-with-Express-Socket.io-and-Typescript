@@ -6,9 +6,9 @@ interface user {
 const users: user[] = [];
 
 const addUser = ({ id, name }: { id: number, name: string}): Object => {
-    name = name.trim().toLowerCase();
+    let trimmedName = name.trim().toLowerCase();
 
-    const existingUser = users.find((user) => user.name === name);
+    const existingUser = users.find((user) => user.name.trim().toLocaleLowerCase() === trimmedName);
 
     if (existingUser) return { error: 'Username is taken' };
 

@@ -50,7 +50,7 @@ io.on('connection', (socket: any) => {
         });
 
         socket.emit('message', { user: 'admin', text: `${user.name}, Welcome!` });
-        socket.broadcast.emit('message', { user: 'admin', text: `${user.name}, has joined!` });
+        socket.broadcast.emit('message', { user: 'admin', text: `${user.name}, joined!` });
 
         resetTimer(socket, user);
 
@@ -85,7 +85,7 @@ io.on('connection', (socket: any) => {
 
         if(user) {
             io.emit('user disconnecting', { user });
-            io.emit('message', {user: 'admin', text:`${name} has logged out`});
+            io.emit('message', {user: 'admin', text:`${name} logged out`});
 
             logger.error({
                 description: 'User Disconnected', reason: 'User Logged out', socketID: socket.id, username: name,

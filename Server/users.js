@@ -1,8 +1,8 @@
 var users = [];
 var addUser = function (_a) {
     var id = _a.id, name = _a.name;
-    name = name.trim().toLowerCase();
-    var existingUser = users.find(function (user) { return user.name === name; });
+    var trimmedName = name.trim().toLowerCase();
+    var existingUser = users.find(function (user) { return user.name.trim().toLocaleLowerCase() === trimmedName; });
     if (existingUser)
         return { error: 'Username is taken' };
     var user = { id: id, name: name };
