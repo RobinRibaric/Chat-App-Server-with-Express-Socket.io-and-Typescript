@@ -37,7 +37,7 @@ io.on('connection', (socket: any) => {
             socket.emit('username taken', { error });
 
             logger.error({
-                description: 'Unavailable username', reason: '', socketID: socket.id, username: name,
+                description: 'Unavailable username', reason: 'Client can not connect with a taken username', socketID: socket.id, username: name,
             });
 
             return socket.disconnect(true);
